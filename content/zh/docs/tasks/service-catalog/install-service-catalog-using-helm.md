@@ -67,7 +67,7 @@ Check to make sure that it installed successfully by executing the following com
 通过执行以下命令进行检查，以确保安装成功：
 
 ```shell
-helm search service-catalog
+helm search repo service-catalog
 ```
 
 <!--
